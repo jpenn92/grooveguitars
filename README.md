@@ -45,5 +45,5 @@ Groove Guitars is a fictional guitar shop website designed to practice:
 ### 📋 Tables & Forms Page
 ![Tables & Forms](images/groove-guitars-tables-forms.png)
 
-## 📂 Project Structure
+
 
